@@ -40,7 +40,7 @@ export default function ContactSection() {
       <div className="mx-auto grid max-w-6xl gap-8 lg:grid-cols-2">
         <div>
           <p className="text-xs tracking-[0.2em] text-accent">CONTACT</p>
-          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Let's build something meaningful</h2>
+          <h2 className="mt-3 text-3xl font-semibold sm:text-4xl">Let&apos;s build something meaningful</h2>
           <p className="mt-4 max-w-md text-sm leading-relaxed text-white/72">
             Open to internships, collaborations, and challenging full stack or AI-focused projects.
           </p>
